@@ -1,0 +1,5 @@
+# SUVAT_calculator_1.0
+a simple calculator used for simple suvat equastions. Future updates will include more complex systems with calculus, trigonometry and other physics nonsense
+
+to use, just download the zip code and extract it
+go into the folder and open the folder named "dist" and then the .exe file
